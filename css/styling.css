@@ -1,0 +1,144 @@
+@charset "UTF-8";
+
+
+
+
+.banner {
+
+    padding-bottom: 300px;
+    padding-top: 30px;
+    background-image: url("http://oi68.tinypic.com/2ia7ek1.jpg");
+
+}
+
+.pullright {
+    float: right;
+    margin-right: 100px;
+}
+
+
+
+
+
+
+
+
+li {
+    display: inline;
+}
+
+li a {
+    color: dimgrey;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+
+.info {
+
+    display: inline-block;
+}
+
+footer {
+    background-color: #888080;
+    color: white;
+    padding-bottom: 50px;
+}
+
+
+
+.headerheading {
+    font-weight: 800;
+    font-size: 40px;
+    padding-bottom: 5px;
+    font-family: open sans;
+    letter-spacing: -1px;
+    color: #fff;
+    margin-left: 20px;
+
+}
+
+.headerheadingrole {
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: open sans;
+    color: #fff;
+    margin-left: 20px;
+
+}
+
+.aboutme {
+    background-color: #CD5C5C;
+    font-family: Verdana;
+    padding: 100px 0 100px 0;
+}
+
+.Projects {
+    background-color: #1166ba;
+    font-family: Verdana;
+    padding: 100px 0 100px 0;
+
+
+}
+
+.Education {
+
+    background-color: #EDEEEF;
+    padding: 100px 0 100px 0;
+}
+
+.Recommandations {
+    background-color: #2E8B57;
+    padding: 100px 0 100px 0;
+}
+
+.footer {
+    padding: 100px 0 100px 0;
+
+}
+
+
+.unoImg,
+.wellsImg {
+    width: 348px;
+    display: block;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    visibility: visible;
+    transform: translateX(750px);
+
+
+
+}
+
+.aitImg,
+.SSAImg {
+    width: 348px;
+    transform: translateX(100px);
+    display: block;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    visibility: visible;
+
+}
+
+.eduImages,
+.proImages {
+    position: relative;
+    overflow: hidden;
+    height: 400px;
+
+}
+
+.educationHeading,
+.prpjectsHeading {
+    text-align: center;
+    font-family: adobe-garamond-pro;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0em;
+    line-height: 1em;
+    text-transform: none;
+}
